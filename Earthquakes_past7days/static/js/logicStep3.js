@@ -91,7 +91,5 @@ d3.json(earthquakesdata).then(function (data){
         onEachFeature: function(feature,layer){ 
             layer.bindPopup("Magnitue:"+feature.properties.mag+"<br/>Location:"+feature.properties.place)
         }
-
-
     }).addTo(map);
 })
