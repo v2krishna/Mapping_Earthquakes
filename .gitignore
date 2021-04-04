@@ -128,6 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-#javascript
-./Earthquake_Challenge/static/js/config.js
+#javascript config
+**config.js
 config.js
