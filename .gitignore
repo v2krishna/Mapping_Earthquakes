@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 #javascript
+./Earthquake_Challenge/static/js/config.js
 config.js
-../static/js/config.js
